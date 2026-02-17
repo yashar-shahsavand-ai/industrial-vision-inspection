@@ -1,0 +1,3 @@
+This folder is intended for trained detection models.
+For demonstration purposes, the model uses YOLOv8n pre-trained weights (yolov8n.pt).
+In production, custom-trained weights would replace this file.
